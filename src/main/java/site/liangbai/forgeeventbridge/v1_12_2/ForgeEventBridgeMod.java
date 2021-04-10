@@ -24,7 +24,7 @@ import site.liangbai.forgeeventbridge.ForgeEventBridge;
 import site.liangbai.forgeeventbridge.v1_12_2.serviceprovider.ServiceProviderImpl;
 import site.liangbai.forgeeventbridge.v1_12_2.transformer.Transformer;
 
-@Mod(modid = "forgeeventbridge", useMetadata = true, serverSideOnly = true)
+@Mod(modid = "forgeeventbridge", useMetadata = true, serverSideOnly = true, acceptableRemoteVersions = "*")
 public final class ForgeEventBridgeMod {
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {

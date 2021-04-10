@@ -17,7 +17,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'org.cadixdev.licenser'
 
 group = 'site.liangbai'
-version = '1.0-SNAPSHOT'
+version = '1.0'
 
 repositories {
     jcenter()
