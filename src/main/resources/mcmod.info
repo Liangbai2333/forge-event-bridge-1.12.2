@@ -1,0 +1,12 @@
+[
+{
+  "modid": "forgeeventbridge",
+  "name": "Forge-Event-Bridge",
+  "description": "Help Bukkit plugins listen to mod events.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Liangbai2333/forge-event-bridge",
+  "authorList": ["Liangbai"],
+  "credits": "Liangbai"
+}
+]
